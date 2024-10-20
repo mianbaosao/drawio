@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="08ktoVXegdY-p2ygeXry">
-    <mxGraphModel dx="1613" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="932" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,7 +429,7 @@
           <mxGeometry x="331" y="1015.5" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uOGjcTrOW1bZUztO3bxn-75" value="接着弹出2和3交换2和3&lt;div&gt;的左右子节点然后同上判断&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="584" y="1153.25" width="210" height="50" as="geometry" />
+          <mxGeometry x="586.5" y="1160" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uOGjcTrOW1bZUztO3bxn-76" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="uOGjcTrOW1bZUztO3bxn-66" edge="1">
           <mxGeometry width="140" relative="1" as="geometry">
