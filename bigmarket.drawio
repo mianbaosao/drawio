@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.8.0">
   <diagram name="事件风暴" id="wpuDD8qq5Ulb641-WcHQ">
-    <mxGraphModel dx="2022" dy="1287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="869" y="83" width="156" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-9" value="进入抽奖页面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="99" y="195" width="121" height="38" as="geometry" />
+          <mxGeometry x="93" y="196" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-10" value="抽奖领域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="99" y="301" width="124" height="38" as="geometry" />
