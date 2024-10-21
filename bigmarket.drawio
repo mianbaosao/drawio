@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.8.0">
   <diagram name="事件风暴" id="wpuDD8qq5Ulb641-WcHQ">
-    <mxGraphModel dx="1709" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,34 +16,34 @@
         <mxCell id="LpByGyLhdkI7YVPbCPlr-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="56" y="63.5" width="992" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-1" value="决策命令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-1" value="决策命令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="99" y="85" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-2" value="领域事件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-2" value="领域事件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="253" y="83" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-3" value="外部系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-3" value="外部系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="407" y="83" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-4" value="业务流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-4" value="业务流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="561" y="83" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-6" value="读模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-6" value="读模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="715" y="83" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-7" value="领域对象&lt;div&gt;entity、valobj、aggregate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="869" y="83" width="156" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-9" value="进入抽奖页面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-9" value="进入抽奖页面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="93" y="196" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-10" value="抽奖领域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-10" value="抽奖领域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="99" y="301" width="124" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-11" target="LpByGyLhdkI7YVPbCPlr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-11" value="点击抽奖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-11" value="点击抽奖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="99" y="388" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-12">
@@ -51,7 +51,7 @@
             <mxPoint x="460.8430893841912" y="407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-12" value="抽奖单的创建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-12" value="抽奖单的创建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="274" y="388" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-16" value="活动领域" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
@@ -64,10 +64,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-17" value="抽奖策略计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-17" value="抽奖策略计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="462" y="388" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-19" value="策略领域实体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-19" value="策略领域实体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="461" y="315" width="122" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-20" target="LpByGyLhdkI7YVPbCPlr-22">
@@ -79,16 +79,16 @@
         <mxCell id="LpByGyLhdkI7YVPbCPlr-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-22" target="LpByGyLhdkI7YVPbCPlr-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-22" value="抽奖策略的计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-22" value="抽奖策略的计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="814" y="355" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-23" value="策略库存的更新完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-23" value="策略库存的更新完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="810" y="405" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-26" value="策略领域" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="819" y="245" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-27" value="奖品实体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-27" value="奖品实体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="975" y="301" width="122" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-28">
@@ -102,19 +102,19 @@
         <mxCell id="LpByGyLhdkI7YVPbCPlr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-28" target="LpByGyLhdkI7YVPbCPlr-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-28" value="保存中间名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-28" value="保存中间名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="976" y="355" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-32" value="task任务写入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-32" value="task任务写入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1131" y="407" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-33" target="LpByGyLhdkI7YVPbCPlr-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-33" value="MQ消息发送完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-33" value="MQ消息发送完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1131" y="459" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LpByGyLhdkI7YVPbCPlr-35" value="中奖记录保存完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LpByGyLhdkI7YVPbCPlr-35" value="中奖记录保存完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1131" y="355" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="LpByGyLhdkI7YVPbCPlr-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LpByGyLhdkI7YVPbCPlr-39" target="LpByGyLhdkI7YVPbCPlr-40">
