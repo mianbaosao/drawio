@@ -1,9 +1,49 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.8.0">
   <diagram name="第 1 页" id="FVFE7vaYweL58d3d2tis">
-    <mxGraphModel>
+    <mxGraphModel dx="807" dy="1153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-6" value="根叶子节点(页38)" style="swimlane;whiteSpace=wrap;html=1;startSize=37;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="241" y="-39" width="261" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="79" y="77" width="167" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-7" value="页目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="32" y="48" width="185" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IKJ4Btg_xXttqfqmedWA-6" source="IKJ4Btg_xXttqfqmedWA-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82" y="120.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-8" value="最小记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="17" y="84" width="34" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IKJ4Btg_xXttqfqmedWA-6" source="IKJ4Btg_xXttqfqmedWA-13" target="IKJ4Btg_xXttqfqmedWA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-13" value="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=33;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="85" y="85" width="31" height="72" as="geometry">
+            <mxRectangle x="85" y="85" width="43" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-15" value="页30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="79" y="124" width="43" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IKJ4Btg_xXttqfqmedWA-6" source="IKJ4Btg_xXttqfqmedWA-20" target="IKJ4Btg_xXttqfqmedWA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-20" value="7" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=33;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="145" y="85" width="31" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-22" value="页36" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="139" y="124" width="43" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IKJ4Btg_xXttqfqmedWA-24" value="最大记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="IKJ4Btg_xXttqfqmedWA-6">
+          <mxGeometry x="208" y="85" width="34" height="73" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
