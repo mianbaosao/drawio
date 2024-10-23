@@ -598,6 +598,9 @@
         <mxCell id="QyckW7I0WmKSCfgXuRwH-161" value="抽奖过程和库存装入" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2281" y="911" width="258" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-162" value="此时延时队列里面放的是奖品id和策略id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-2277.5" y="1521" width="251" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
