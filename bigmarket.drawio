@@ -142,7 +142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tLM9bRKIlrYPNOMmo2wq" name="业务流程图‘">
-    <mxGraphModel dx="6296" dy="1716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="5466" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -697,6 +697,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3109" y="1927" as="sourcePoint" />
             <mxPoint x="-3059" y="1877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-199" value="规则树细节" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="QyckW7I0WmKSCfgXuRwH-198">
+          <mxGeometry x="0.1684" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
