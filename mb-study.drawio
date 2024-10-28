@@ -1,9 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.8.3">
   <diagram name="第 1 页" id="RNzkRPrkngIkkw-ATnGN">
-    <mxGraphModel dx="1617" dy="1029" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="1103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MM2uD25ACLaoCfSQfWXC-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1299.5" y="707.9524100167412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="381" width="449" height="281" as="geometry" />
+        </mxCell>
         <mxCell id="MM2uD25ACLaoCfSQfWXC-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="103" y="711" width="1473" height="669" as="geometry" />
         </mxCell>
@@ -211,6 +219,45 @@
         </mxCell>
         <mxCell id="MM2uD25ACLaoCfSQfWXC-72" value="工厂加策略实现题目的分类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="541" y="905.99" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MM2uD25ACLaoCfSQfWXC-73" target="MM2uD25ACLaoCfSQfWXC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-75" value="获取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="MM2uD25ACLaoCfSQfWXC-74">
+          <mxGeometry x="0.1452" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MM2uD25ACLaoCfSQfWXC-73" target="MM2uD25ACLaoCfSQfWXC-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-83" value="LoginId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MM2uD25ACLaoCfSQfWXC-77">
+          <mxGeometry x="-0.0901" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-73" value="登录拦截器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1106" y="432.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-76" value="放入threadLocal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1353" y="432.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-78" value="其他模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MM2uD25ACLaoCfSQfWXC-79" target="MM2uD25ACLaoCfSQfWXC-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-82" value="LoginId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MM2uD25ACLaoCfSQfWXC-80">
+          <mxGeometry x="-0.194" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MM2uD25ACLaoCfSQfWXC-79" target="MM2uD25ACLaoCfSQfWXC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MM2uD25ACLaoCfSQfWXC-79" value="Feign拦截器放入请求头里" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1109" y="544" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
