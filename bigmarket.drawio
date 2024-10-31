@@ -142,10 +142,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tLM9bRKIlrYPNOMmo2wq" name="业务流程图‘">
-    <mxGraphModel dx="7405" dy="1404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="6716" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-3479" y="8" width="1125" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-251" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2982" y="26" width="173" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-250" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-3222" y="26" width="146" height="176" as="geometry" />
+        </mxCell>
         <mxCell id="QyckW7I0WmKSCfgXuRwH-197" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-3518" y="2064" width="1146" height="585" as="geometry" />
         </mxCell>
@@ -186,9 +195,6 @@
         </mxCell>
         <mxCell id="QyckW7I0WmKSCfgXuRwH-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2791" y="862" width="370" height="313" as="geometry" />
-        </mxCell>
-        <mxCell id="QyckW7I0WmKSCfgXuRwH-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-3451" y="29" width="1125" height="720" as="geometry" />
         </mxCell>
         <mxCell id="QyckW7I0WmKSCfgXuRwH-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-3260" y="292.5" width="875" height="403" as="geometry" />
@@ -316,11 +322,16 @@
         <mxCell id="QyckW7I0WmKSCfgXuRwH-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyckW7I0WmKSCfgXuRwH-42" target="QyckW7I0WmKSCfgXuRwH-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-248" value="activityId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="QyckW7I0WmKSCfgXuRwH-47">
+          <mxGeometry x="0.0663" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QyckW7I0WmKSCfgXuRwH-42" value="查询活动配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-3213" y="79" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3213" y="42" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QyckW7I0WmKSCfgXuRwH-46" value="缓存配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2993" y="79" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2958" y="42" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QyckW7I0WmKSCfgXuRwH-49" value="装配活动和抽奖策略" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2714" y="69" width="258" height="110" as="geometry" />
@@ -837,6 +848,20 @@
         </mxCell>
         <mxCell id="QyckW7I0WmKSCfgXuRwH-237" value="rule_lock:限定用户已完成N次抽奖后解锁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="QyckW7I0WmKSCfgXuRwH-242">
           <mxGeometry x="45" y="524" width="454" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyckW7I0WmKSCfgXuRwH-245" target="QyckW7I0WmKSCfgXuRwH-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-249" value="skuId&lt;div style=&quot;font-size: 14px;&quot;&gt;activityCountId&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="QyckW7I0WmKSCfgXuRwH-247">
+          <mxGeometry x="-0.2249" relative="1" as="geometry">
+            <mxPoint x="6" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-245" value="查询活动id下的所有sku" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-3213" y="126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyckW7I0WmKSCfgXuRwH-246" value="缓存sku库存和配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-2958" y="126" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
