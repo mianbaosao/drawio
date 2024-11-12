@@ -492,7 +492,7 @@
         <mxCell id="4NU1QwO5dj-do_I7EqBa-251" value="&lt;span style=&quot;color: rgba(255, 255, 255, 0.9); font-family: &amp;quot;Color Emoji&amp;quot;, system-ui, &amp;quot;PingFang SC&amp;quot;, PingFangSC-Regular, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Heiti SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, Arial, Helvetica, sans-serif, &amp;quot;Apple Braille&amp;quot;, &amp;quot;Color Emoji Fix&amp;quot;; font-size: 10px; text-align: start; text-wrap: nowrap; background-color: rgba(255, 255, 255, 0.08);&quot;&gt;22&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="191" y="1564" width="177" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="W9zCkvRJCNocP8x137dr-1" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="W9zCkvRJCNocP8x137dr-1" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="468" y="1552" width="197" height="105" as="geometry" />
         </mxCell>
       </root>
